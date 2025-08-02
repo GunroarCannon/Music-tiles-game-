@@ -1,0 +1,18 @@
+[
+  {
+    "displayName": "You Are Jesus",
+    "artist": "James Lord ",
+    "musicPath": "assets/tmpp.ogg", 
+    "beatmapPath": "assets/you_are_jesus.json",
+    "levelRequired": 2,
+    "cost": 0
+  },
+  {
+    "displayName": "Test Label 2",
+    "artist": "Johann Pachelbel",
+    "musicPath": "assets/songs/tmpp.ogg",
+    "beatmapPath": "assets/beatmaps/you_are_jesus.json",
+    "levelRequired": 3,
+    "cost": 0
+  }
+]
